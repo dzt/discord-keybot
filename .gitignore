@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+
+# Keybot Things
+config.json
+keyStore.sqlite3

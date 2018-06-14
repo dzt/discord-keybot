@@ -1,0 +1,6 @@
+{
+    "botSecretKey": "xxx",
+    "serverPort": 3000,
+    "dbFileName": "keyStore",
+    "serverSecret": "asdfghjkl"
+}
